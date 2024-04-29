@@ -29,5 +29,7 @@ Using Machine learning models create a model that can predict multiple diseases.
 - Use Streamlit to create a web application that allows users to input their own data and make predictions using the saved model.
 - Include a button in the application to process the user input and make predictions.
 
-https://github.com/TusharRamani/Multiple-disease-app/assets/166124942/1edae55d-e654-44d8-acb4-cf5c1ace10a5
+[https://github.com/TusharRamani/Multiple-disease-app/assets/166124942/1edae55d-e654-44d8-acb4-cf5c1ace10a5](https://github.com/TusharRamani/Multiple-disease-app/assets/166124942/6d12acea-c873-4f6f-9fec-5ab013d77174)
+
+
 
