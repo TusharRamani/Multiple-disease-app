@@ -7,7 +7,8 @@ This project provides a streamlit web application for predicting multiple diseas
 ## About the Project : 
 Using Machine learning models create a model that can predict multiple diseases. The model will be trained and tested using datasets from Kaggle.Web App is developed using Python’s Streamlit library.
 
-**Requirements:**/n
+**Requirements:**
+
 • Python 3.x 
 • Kaggle Datasets 
 • Jupyter Notebook
