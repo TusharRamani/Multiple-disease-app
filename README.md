@@ -9,10 +9,8 @@ Using Machine learning models create a model that can predict multiple diseases.
 
 **Requirements:**
 
-- Python 3.x 
-
-• Kaggle Datasets 
-
-• Jupyter Notebook
+- Python 3.x
+- Kaggle Datasets
+- Jupyter Notebook
 
 
