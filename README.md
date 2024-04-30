@@ -31,5 +31,11 @@ Using Machine learning models create a model that can predict multiple diseases.
 
 [https://github.com/TusharRamani/Multiple-disease-app/assets/166124942/1edae55d-e654-44d8-acb4-cf5c1ace10a5](https://github.com/TusharRamani/Multiple-disease-app/assets/166124942/6d12acea-c873-4f6f-9fec-5ab013d77174)
 
+### Deployment Steps
+Please follow the below steps to run this project.
+<br>
+1. `pip install -r requirements.txt`<br>
+2. `streamlit run multiple_disease_prediction.py`<br><br>
+
 
 
